@@ -24,3 +24,6 @@ const config = {
 };
 
 console.log(config); // {size: 12, mobileSize: 4}
+
+//? scope === variable access (when a piece of code is running what variables access do we have)
+//? context === this (the value of this, when a piece of code is running the value of this is the context)
